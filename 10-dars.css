@@ -1,0 +1,608 @@
+.block{
+    display: flex;
+    align-items: center ;
+    justify-content: space-between;
+    margin: 65px 137px;
+}
+.blog2{
+    margin: 65px 137px;
+}
+.blog img{
+    width: 160px;
+    height: 41px;
+}
+.blog7 img{
+    width: 693px;
+    height: 598px;
+}
+
+.links a{
+    margin: 0px 20px ;
+    text-decoration: none;
+}
+.box{
+    display: flex;
+    align-items: center;
+   margin: 0px 90px;
+   justify-content: space-between;
+}
+ .box button{
+    background-color: #458FF6;
+    width: 200px;
+    height: 60px;
+    box-shadow: none;
+    
+    border-radius: 55px;
+    border: none;
+    color: white;
+    font-family: mulish,sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    padding: 16px 8px;
+    margin: 45px 0;
+    text-align: center;
+}
+.box button:hover{
+    background-color: transparent;
+    border: 2px solid black;
+    color: black;
+    box-shadow: none;
+    font-weight: bold;
+}
+
+.box p{
+    color: grey;
+}
+
+.our{
+  
+    height: 117px;
+    margin: 20px 0;
+   
+    text-align: center;
+}
+
+.our hr{
+    width: 56px;
+    height: 2px;
+    background-color: #000;
+
+}
+
+
+.clas{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: 0 120px;
+}
+.blac{
+    width: 30%;
+    border-radius: 20px;
+    margin-top: 29PX;
+    box-shadow: 2px 5px 3px 2px #ccc;
+}
+
+
+.bloc2t img{
+    width: 91px;
+    height: 90px;
+    margin: 30px 37px;
+}
+
+.blac5{
+    font-family: mulish,sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+   margin: 11px 39px;
+   
+    text-align: center;
+}
+.blac6{
+    font-weight: 300;
+    font-size: 16px;
+    color: #7D7987;
+    font-family: mulish,sans-serif;
+    padding: 10px 30px;
+    width: 266px;
+    height: 84px;
+
+}
+
+
+.bloc2 img{
+    width: 61px;
+    height: 85px;
+    margin: 30px 37px;
+
+
+}
+
+.blac5{
+    font-family: mulish,sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+   margin: 11px 39px;
+   
+    text-align: center;
+}
+.blac6{
+    font-weight: 300;
+    font-size: 16px;
+    color: #7D7987;
+    font-family: mulish,sans-serif;
+    padding: 10px 30px;
+    width: 266px;
+    height: 84px;
+
+}
+
+img{
+    width: 91px;
+    height: 90px;
+    margin: 27px 30px;
+
+
+}
+
+.blac5{
+    font-family: mulish,sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+   margin: 11px 39px;
+   
+    text-align: center;
+}
+.blac6{
+    font-weight: 300;
+    font-size: 16px;
+    color: #7D7987;
+    font-family: mulish,sans-serif;
+    padding: 10px 30px;
+    width: 266px;
+    height: 84px;
+
+}
+
+
+img{
+    width: 91px;
+    height: 90px;
+    margin: 27px 30px;
+
+
+}
+
+.blac5{
+    font-family: mulish,sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+   margin: 11px 39px;
+   
+    text-align: center;
+}
+.blac6{
+    font-weight: 300;
+    font-size: 16px;
+    color: #7D7987;
+    font-family: mulish,sans-serif;
+    padding: 10px 30px;
+    width: 266px;
+    height: 84px;
+
+}
+
+
+
+.bloc2M img{
+    width: 80px;
+    height: 71px;
+    margin: 30px 37px;
+
+
+}
+
+.blac5{
+    font-family: mulish,sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+   margin: 11px 39px;
+   
+    text-align: center;
+}
+.blac6{
+    font-weight: 300;
+    font-size: 16px;
+    color: #7D7987;
+    font-family: mulish,sans-serif;
+    padding: 10px 30px;
+    width: 266px;
+    height: 84px;
+
+}
+
+
+img{
+    width: 91px;
+    height: 90px;
+    margin: 27px 30px;
+
+
+}
+
+.blac5{
+    font-family: mulish,sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+   margin: 11px 39px;
+   
+    text-align: center;
+}
+.blac6{
+    font-weight: 300;
+    font-size: 16px;
+    color: #7D7987;
+    font-family: mulish,sans-serif;
+    padding: 10px 30px;
+    width: 266px;
+    height: 84px;
+
+}
+
+
+
+.but button{
+    width: 200px;
+    height: 56px;
+    border-radius: 55px;
+    background-color: transparent;
+    color: #458FF6;
+    border: #458FF6 2px solid;
+    font-family: mulish,sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    text-align: center;
+    margin: 40px 500px;
+    box-shadow: none;
+    
+
+}
+.but button:active{
+    background-color: rgb(168, 133, 133);
+    color: white;
+    border: black 2px solid;
+    box-shadow: none;
+}
+
+
+
+.nur img{
+    width: 550px;
+    height: 377px;
+    margin: 0 70px;
+
+}
+.nuk{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 25px 0;
+}
+.nurik{
+    margin: 0 70px;
+}
+.nurik h1{
+    font-family: mulish,sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    color: #000;
+    text-align: left;
+}
+.nurik p{
+    font-family: mulish,sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    color: #7D7987;
+    text-align: left;
+}
+.nurik hr{
+    width: 50px;
+    height: 2px;
+    background-color: #000;
+}
+
+.nurik button{
+    width: 200px;
+    height: 60px;
+    border-radius: 55px;
+    border: #458FF6 2px solid;
+    font-size: 18px;
+    font-family: mulish, sans-serif;
+    font-weight: 700;
+    color: #458FF6;
+    margin: 20px;
+    background-color: white;
+    box-shadow: none;
+
+}
+.nurik button:active{
+    background-color: rgb(168, 133, 133);
+    color: white;
+    border: 2px black solid;
+    box-shadow: none;
+   
+    
+}
+.nurik{
+    text-align: center;
+}
+
+.nuw img{
+    width: 550px;
+    height: 377px;
+    margin: 0 70px;
+    
+
+}
+.nuy{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 0;
+}
+
+.nuriy h1{
+    font-family: mulish,sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    color: #000;
+    text-align: left;
+    
+}
+.nuriy p{
+    font-family: mulish,sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    color: #7D7987;
+    text-align: left;
+}
+.nuriy{
+    margin: 0 70px;
+}
+.nuriy hr{
+    width: 50px;
+    height: 2px;
+    background-color: #000;
+    text-align: left;
+}
+
+ button{
+    width: 200px;
+    height: 60px;
+    border-radius: 55px;
+    border: none;
+    font-size: 18px;
+    font-family: mulish, sans-serif;
+    font-weight: 700;
+    color: blue;
+    margin: 20px;
+    text-align: center;
+    background-color: whitesmoke;
+    box-shadow: 3px 3px 3px 0px #7D7987;
+    cursor: pointer;
+}
+ button:active{
+    background-color: white;
+    color: blue;
+    border: 2px #7D7987 solid;
+   box-shadow: 0 0 0 0 white;
+   
+}
+
+
+
+.oy{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.quyosh{
+    width: 80%;
+    height: 30%;
+    margin: 30px auto;
+    border-radius: 10px;
+    background-color: #75aeff;
+    margin: 70px  auto;
+    
+}
+.mars{
+    display: flex;
+    justify-content: space-between;
+}
+
+.quyosh h1{
+    text-align: center;
+    color: white;
+    padding-top: 30px;
+}
+.quyosh hr{
+    width: 120px;
+    height: 2px;
+    background-color: white;
+
+}
+.yulduz{
+    width: 400px;
+    height: 250px;
+    margin: 0 30px;
+    display: flex;
+    justify-content: center;
+}
+.yup{
+    margin: 47px 0;
+}
+
+.yup h1{
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+    text-align: center;
+}
+.yup p{
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    padding: auto;
+}
+.neft img{
+    width: 161px;
+    height: 115px;
+    margin: 15px 213px;
+}
+
+.yulduz img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin: 67px 50px;
+    border: 2px white solid;
+}
+.metior p{
+    margin: 77px 111px;
+    color: white;
+}
+
+
+
+.yer img{
+    width: 350px ;
+    height: 250px;  
+    margin: auto;
+    border-radius: 10px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+.yer h3{
+    font-size: 21px;
+    font-family: sans-serif;
+    font-weight: 700;
+    text-align: left;
+    padding: 0 33px;
+}
+.yer{
+    width: 350px;
+    height: 512px;
+    
+    border-radius: 10px;
+    margin: 0 10px;
+    box-shadow: 0px 1px 1px 0px #7D7987;
+}
+.yer p{
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: 300;
+    color: #7D7987;
+    padding: 10px 20px;
+}
+
+.yer hr{
+    width: 50px;
+    background-color: #000;
+    height: 1px;
+}
+
+.yer button{
+    width: 266px;
+    height: 28px;
+    font-family: muli,sans-serif;
+    font-size: 17px;
+    font-weight: 600;
+    text-align: left;
+    border: none;
+    border-radius: 0 0 0 0 ;
+    box-shadow: none;
+    background-color: transparent;
+}
+
+.yer button:active{
+    color: #5c5a62;
+}
+.auf h1{
+    font-family: muli,sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+}
+.auf hr{
+    width: 56px;
+    height: 2px;
+    background-color: #000;
+    margin-bottom: 50px;
+}
+.red button{
+    margin: 69px 500px;
+    border: 2px #458FF6 solid;
+    box-shadow: 0 0 0 0 ;
+}
+
+.shal img{
+    width: 200px;
+    height: 20px;
+}
+
+.dar{
+    display: flex;
+    justify-content: space-between;
+    background-color: #75aeff;
+    width: 100%;
+    height: 432px;
+
+    
+}
+.dar img{
+    width: 137px;
+    height: 50px;
+}
+.dar p{
+    font-family: muli,sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    color: white;
+}
+.dar h3{
+    font-size: 20px;
+    font-family: muli,sans-serif;
+    font-weight: 700;
+    color: white;
+}
+.osm{
+    margin: 108px 0;
+    margin-left: 100px;
+}
+.now{
+    margin: 129px 100px;
+    margin-right: 20px;
+    
+}
+.yey{
+    display: flex;
+    justify-content: center;
+    margin: 10px 0;
+}
+.pad img{
+    width: 131px;
+    height: 115px;
+    margin: -20px -25px;
+    margin-top: 330px;
+}
+
+
+
+
+
+
+
+
